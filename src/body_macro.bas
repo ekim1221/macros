@@ -3,6 +3,11 @@ Sub Macro1()
 ' Macro1 Macro
 '
 '
+' Make sure that your macros passes the tests on the class github page
+' Post the test results on your github page and the class github page
+' Include in-line comments in your macros to further clarify your code
+' Give your macros a more approporiate title that describes its purpose
+
     Selection.WholeStory
     Selection.Font.Name = "Times New Roman"
     Selection.Font.Size = 10
